@@ -3,7 +3,6 @@
 <img width="1920" height="1080" alt="제목을-입력해주세요_-004" src="https://github.com/user-attachments/assets/2fd43396-c174-44a1-baf7-e093a2ba4a57" />
 
 
----
 
 ## **팀원 구성**
 
@@ -17,14 +16,14 @@
 
 정영진 (https://github.com/userjin2123)
 
----
+
 
 ## **프로젝트 소개**
 
 - 금융 지수 데이터를 한눈에 제공하는 대시보드 서비스
 - 프로젝트 기간: 2025.09.05 ~ 2025.09.15
 
----
+
 
 ## **기술 스택**
 
@@ -33,7 +32,7 @@
 - 공통 Tool: Git & Github, Discord, Notion
 - 배포 : Railway.io
 
----
+
 
 ## **팀원별 구현 기능 상세**
 
@@ -64,7 +63,7 @@
     - 엑셀 : 목록 내보내기
     - Open API : 기간별 데이터 연동
 
----
+
 
 ## **파일 구조**
 
@@ -193,15 +192,16 @@ src
 ```
 
 
-## **팀 프로젝트 노션**
+
+## **팀 노션 링크**
 [https://www.notion.so/Findex_6team-264911ad8de0804f8c9efc0f8251c357](https://www.notion.so/Findex_6team-264911ad8de0804f8c9efc0f8251c357?pvs=21)
 
----
+
 
 ## **구현 홈페이지**
 https://findex-team6.up.railway.app/
 
----
+
 
 ## **프로젝트 발표자료**
 [findex_6team_발표자료.pdf](https://github.com/user-attachments/files/22356923/findex_6team_.pdf)
