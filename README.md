@@ -2,7 +2,6 @@
 
 <img width="1920" height="1080" alt="제목을-입력해주세요_-004" src="https://github.com/user-attachments/assets/2fd43396-c174-44a1-baf7-e093a2ba4a57" />
 
-프로젝트 노션 링크 : [https://www.notion.so/Findex_6team-264911ad8de0804f8c9efc0f8251c357](https://www.notion.so/Findex_6team-264911ad8de0804f8c9efc0f8251c357?pvs=21)
 
 ---
 
@@ -39,32 +38,27 @@
 ## **팀원별 구현 기능 상세**
 
 ### 강동민
-
 - 대시 보드 관리
     - 주요 지수 : 일/월/연간 조회
     - 지수 차트 : 종가, 5일, 10일 이동 평균선 차트 조회
     - 지수 성과 : 지수/기관 별 지수 성과표 조회
-
+    - 
 ### 김용희
-
 - 지수 정보 관리
     - 지수 : 등록, 수정, 삭제 조건 조회
     - Open API : 기간별 데이터 연동
 
 ### 이유호
-
 - 연동 작업 관리
     - 연동 개요 : 최근 7일간 성공, 실패 건 출력 / 마지막 연동 시간 출력
     - 연동 이력 : 조건별 이력 조회
 
 ### 정수진
-
 - 자동 연동 설정 관리
     - 자동 연동 지수 조회 : 지수명 / 자동 연동 활성화 여부 별 조회
     - 자동 연동 지수 활성화 설정
 
 ### 정영진
-
 - 지수 데이터 관리
     - 지수 데이터 : 등록, 수정, 삭제 조건 조회
     - 엑셀 : 목록 내보내기
@@ -199,10 +193,12 @@ src
 ```
 
 
+## **팀 프로젝트 노션**
+[https://www.notion.so/Findex_6team-264911ad8de0804f8c9efc0f8251c357](https://www.notion.so/Findex_6team-264911ad8de0804f8c9efc0f8251c357?pvs=21)
+
 ---
 
 ## **구현 홈페이지**
-
 https://findex-team6.up.railway.app/
 
 ---
