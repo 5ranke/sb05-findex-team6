@@ -207,5 +207,6 @@ https://findex-team6.up.railway.app/
 
 ---
 
-## **프로젝트 회고록**
-[findex_발표자료.pdf](https://github.com/user-attachments/files/22345856/findex_.pdf)
+## **프로젝트 발표자료**
+[findex_6team_발표자료.pdf](https://github.com/user-attachments/files/22356923/findex_6team_.pdf)
+
