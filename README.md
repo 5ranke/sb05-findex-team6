@@ -1,6 +1,6 @@
 # **Findex**
 
-<img width="1920" height="1080" alt="제목을-입력해주세요_-004" src="https://github.com/user-attachments/assets/2fd43396-c174-44a1-baf7-e093a2ba4a57" />
+<img width="1920" height="1080" alt="슬라이드4" src="https://github.com/user-attachments/assets/ac87a441-6908-46e1-a915-0548e5ff0140" />
 
 
 
@@ -204,5 +204,5 @@ https://findex-team6.up.railway.app/
 
 
 ## **프로젝트 발표자료**
-[findex_6team_발표자료.pdf](https://github.com/user-attachments/files/22356923/findex_6team_.pdf)
+[findex_6team_발표자료.pdf](https://github.com/user-attachments/files/22360960/findex_6team_.pdf)
 
